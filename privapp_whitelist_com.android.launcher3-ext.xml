@@ -25,5 +25,6 @@
         <permission name="android.permission.GET_INTENT_SENDER_INTENT"/>
         <permission name="android.permission.PACKAGE_USAGE_STATS"/>
         <permission name="com.android.alarm.permission.SET_ALARM"/>
+        <permission name="android.permission.ACCESS_CONTEXTUAL_SEARCH"/>
     </privapp-permissions>
 </permissions>
